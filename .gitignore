@@ -1,0 +1,37 @@
+# Entorno virtual
+venv/
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# Archivos de salida
+data/output/
+data/temp/
+*.xlsx
+*.csv
+*.json
+
+# Screenshots / debug
+*.png
+*.jpg
+
+# IDEs
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+
+# Pytest
+.pytest_cache/
+
+# Coverage
+.coverage
+htmlcov/
