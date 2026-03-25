@@ -11,4 +11,4 @@ def test_browser_launch():
     assert "Example" in page.title()
 
     browser.close()
-    playwright.stop()
+    playwright.stop() 
